@@ -1,0 +1,10 @@
+table {
+    display: flex;
+    flex-direction: column;
+}
+td{
+
+    flex-direction: column;
+
+    
+}
